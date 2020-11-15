@@ -50,12 +50,36 @@ Information regarding the columns in the dataset can be found in the data descri
 - 4.3 Apply log transformation to sale price
 - 4.4 Apply Box-Cox transformation to numerical features with high skewness
 - 4.5 Feature engineering
+  - UnfBsmt
+  - HasWoodDeck
+  - HasOpenPorch
+  - HasEnclosedPorch
+  - Has3SsnPorch
+  - HasScreenPorch
+  - YearsSinceRemodel
+  - TotalHomeQuality
+  - TotalSF
+  - YearBuiltAndRemodel
+  - TotalBathrooms
+  - TotalPorchSF
+  - HasPool
+  - Has2ndFloor
+  - HasGarage
+  - HasBsmt
+  - HasFireplace
 - 4.6 Encode categorical features
 
 **5. Modelling**
 - 5.1 Get the new training and test set
 - 5.2 Define cross-validation strategy and evaluation metric
 - 5.3 Model evaluation
+  - Ridge
+  - Lasso
+  - Elastic net
+  - Support vector regressor
+  - Gradient boosting
+  - Light GBM
+  - XGBoost
 - 5.2 Make predictions on test data using Ridge
 
 **6. Conclusion**
