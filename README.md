@@ -3,7 +3,7 @@
 ## Introduction
 This repository contains an end-to-end analysis and solution to the [Kaggle house prices prediction competition](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview).
 
-## Project details
+## Problem statement
 The aim of this competition is to analyse 79 different features that describe every aspect of the residential homes in Ames, Iowa and subsequently make predictions on the final sale price of
 each home. This is an example of a regression problem in machine learning as sale price, which is our target variable, has a continuous distribution.
 
