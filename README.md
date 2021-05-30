@@ -85,17 +85,15 @@ Information regarding the columns in the dataset can be found in the data descri
 **6. Conclusion**
 
 ## References
-I have made references to the following notebooks in the making of this notebook:
 - [Comprehensive data exploration with Python](https://www.kaggle.com/pmarcelino/comprehensive-data-exploration-with-python) by [Pedro Marcelino, PhD](https://www.kaggle.com/pmarcelino)
 - [#1 House Prices Solution [top 1%]](https://www.kaggle.com/jesucristo/1-house-prices-solution-top-1) by [Nanashi](https://www.kaggle.com/jesucristo)
 - [How I made top 0.3% on a Kaggle competition](https://www.kaggle.com/lavanyashukla01/how-i-made-top-0-3-on-a-kaggle-competition#EDA) by [Lavanya Shukla](https://www.kaggle.com/lavanyashukla01)
 - [Stacked Regressions: Top 4% on LeaderBoard](https://www.kaggle.com/serigne/stacked-regressions-top-4-on-leaderboard) by [Serigne](https://www.kaggle.com/serigne)
 
-## My platforms 
-Reach out to me if you have any questions!
+## Follow me 
 - [Facebook](https://www.facebook.com/chongjason914)
 - [Instagram](https://www.instagram.com/chongjason914)
 - [Twitter](https://www.twitter.com/chongjason914)
 - [LinkedIn](https://www.linkedin.com/in/chongjason914)
-- [YouTube](https://www.youtube.com/channel/UCQXiCnjatxiAKgWjoUlM-Xg?view_as=subscriber)
+- [YouTube](https://www.youtube.com/jasonchong914)
 - [Medium](https://www.medium.com/@chongjason)
